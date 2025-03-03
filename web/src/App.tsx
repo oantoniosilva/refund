@@ -1,5 +1,5 @@
 export function App() {
   return (
-    <h1>Working!</h1>
+    <h1 className="text-emerald-500">Working!</h1>
   )
 }
